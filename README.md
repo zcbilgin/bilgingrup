@@ -1,0 +1,2 @@
+# bilgingrup
+Test amaçlıdır.
